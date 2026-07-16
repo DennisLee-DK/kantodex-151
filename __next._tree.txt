@@ -1,2 +1,2 @@
-:HL["/kantodex-151/_next/static/chunks/0uyiocpqx3.gj.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Js3QH7snaTR_qzsoHNyX0"}
+:HL["/kantodex-151/_next/static/chunks/0r41bl5dy~zdo.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"BvHzzxvz3sYtghdrnlYN4"}
